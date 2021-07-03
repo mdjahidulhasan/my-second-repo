@@ -1,13 +1,18 @@
 p{
     background-color: bisque;
 }
+div{
+    width: auto;
+    height: 378px;
+    background-color: blue;
+}
 .image1{
     float: left;
     width: 40%;
-    height: auto;  
+    height: 100%;  
 }
 .image2{
     float: right;
     width: 40%;
-    height: auto;  
+    height: 100%;  
 }
